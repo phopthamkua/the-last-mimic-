@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQOABAAAAAAAPAPAAAAAAD/3///DwAA8P/f3f//DwD/3//d/w/w////3d39///////dvf3/8QD/3y/d/f/xAP/f3939H/EA///f3f8R/wDw/939H/H/IvD/3/8f////8P////8AAAAA8P8P//8AAAAA8A8AAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "killer"
+    },
+    "image2": {
+        "data": "hwQOABAAAADw/wAAAAAAAP////8P8P/f/+/+///w/9//7u7+/2//D/BO5B7f/fb/70Tu/t/9b//v5O7+3f1vD+/u7h/f/f8G707u/9/9///g7uT/3/3////vTv////8A///u7v/w/9/////uDvD/3/D/AAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA/w8AAAAA8P/9//8PAAD//93d//8PAP/9393/D/D//9/d3f3/////393b/f/xAP/93939H/EA8P3d3f0f8QDw/93d/xH/APD/3f3/8f8A8P/f///x//8A8P//8A8AAAAA8P/w/w8AAADw/wAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "clone"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
